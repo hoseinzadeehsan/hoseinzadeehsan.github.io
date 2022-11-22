@@ -20,7 +20,7 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 
 
 *CNNpred: CNN-based stock market prediction using a diverse set of variables*  
-**Ehsan Hoseinzade**, Saman Haratizadeh, [PDF](https://arxiv.org/abs/1810.08923)
+**Ehsan Hoseinzade**, Saman Haratizadeh, [PDF](https://www.sciencedirect.com/science/article/pii/S0957417419301915)
 
 *U-cnnpred: A universal cnn-based predictor for stock markets*  
 **Ehsan Hoseinzade**, Saman Haratizadeh, Arash Khoeini, [PDF](https://arxiv.org/abs/1911.12540)
