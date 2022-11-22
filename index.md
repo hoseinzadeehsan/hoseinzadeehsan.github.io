@@ -12,7 +12,7 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 ## Research interests:
 * Deep Learning
 * Data Mining
-* Graph Neural Netowrk
+* Graph Neural Netowrks
 * Tranaformer-based Langugae Models
 
 
