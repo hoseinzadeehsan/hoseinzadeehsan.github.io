@@ -10,10 +10,10 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 [My CV](./cv.pdf)
 
 ## Research interests:
-* Machine Learning
-* Data Mining
 * Deep Learning
-* Finance
+* Data Mining
+* Graph Neural Netowrk
+* Tranaformer-based Langugae Models
 
 
 ## Publications
