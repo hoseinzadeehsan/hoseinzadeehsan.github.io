@@ -26,7 +26,7 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 **Ehsan Hoseinzade**, Saman Haratizadeh, Arash Khoeini, [PDF](https://arxiv.org/abs/1911.12540)
 
 *Persian Optical Character Recognition Using Deep Bidirectional Long Short-Term Memory*  
-Zohreh Khosrobeig, Hadi Veisi, **Ehsan Hoseinzade** , Hanieh Shabanian  , [PDF]([https://arxiv.org/abs/2012.04979](https://www.mdpi.com/2076-3417/12/22/11760/pdf))
+Zohreh Khosrobeig, Hadi Veisi, **Ehsan Hoseinzade** , Hanieh Shabanian  , [PDF](https://www.mdpi.com/2076-3417/12/22/11760/pdf)
 
 *Representation Extraction and Deep Neural Recommendation for Collaborative Filtering*  
 Arash Khoeini, Saman Haratizadeh, **Ehsan Hoseinzade** , [PDF](https://arxiv.org/abs/2012.04979)
