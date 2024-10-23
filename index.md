@@ -20,17 +20,20 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 ## Publications
 
 *Graph Neural Network Approach to Semantic Type Detection in Tables*  
-**Ehsan Hoseinzade**, Ke Wang
+**Ehsan Hoseinzade**, Ke Wang, 2024, [PAKDD]([https://arxiv.org/abs/1911.12540](https://arxiv.org/pdf/2405.00123))
 
 *CNNpred: CNN-based stock market prediction using a diverse set of variables*  
-**Ehsan Hoseinzade**, Saman Haratizadeh, [PDF](https://www.sciencedirect.com/science/article/pii/S0957417419301915)
+**Ehsan Hoseinzade**, Saman Haratizadeh, 2019, [Expert Systems with Applications (journal)](https://www.sciencedirect.com/science/article/pii/S0957417419301915), **Citations: 569**
 
 *U-cnnpred: A universal cnn-based predictor for stock markets*  
-**Ehsan Hoseinzade**, Saman Haratizadeh, Arash Khoeini, [PDF](https://arxiv.org/abs/1911.12540)
+**Ehsan Hoseinzade**, Saman Haratizadeh, Arash Khoeini, 2019, [arXiv](https://arxiv.org/abs/1911.12540)
+
+*Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction*  
+Ali Mehrabian, **Ehsan Hoseinzade**, Mahdi Mazloum, Xiaohong Chen, [arXiv](https://arxiv.org/pdf/2410.03707)
 
 *Persian Optical Character Recognition Using Deep Bidirectional Long Short-Term Memory*  
-Zohreh Khosrobeig, Hadi Veisi, **Ehsan Hoseinzade** , Hanieh Shabanian  , [PDF](https://www.mdpi.com/2076-3417/12/22/11760/pdf)
+Zohreh Khosrobeig, Hadi Veisi, **Ehsan Hoseinzade** , Hanieh Shabanian, 2022, [Applied Sciences (journal)](https://www.mdpi.com/2076-3417/12/22/11760/pdf)
 
 *Representation Extraction and Deep Neural Recommendation for Collaborative Filtering*  
-Arash Khoeini, Saman Haratizadeh, **Ehsan Hoseinzade** , [PDF](https://arxiv.org/abs/2012.04979)
+Arash Khoeini, Saman Haratizadeh, **Ehsan Hoseinzade** , 2020, [arXiv](https://arxiv.org/abs/2012.04979)
 
