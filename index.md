@@ -12,6 +12,8 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 * Large Langugae Models
 * Graph Neural Netowrks
 * Deep Learning
+* Mamba
+* Convolutional Neural Networks
 
 
 
