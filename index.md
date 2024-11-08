@@ -3,7 +3,7 @@ I am a *Computing Science* Ph.D. candidate at Simon Fraser University (SFU). I d
 
 
 
-Before joining SFU I got my Masters degree in Computer Science at University of Tehran.
+Before joining SFU I got my Masters degree in Computer Science at University of Tehran. My thesis is on [Using Deep Learning in Financial Markets Prediction](M_Sc__Thesis.pdf)
 
 [linkedin](https://linkedin.com/in/hoseinzadeehsan), [Google Scholar](https://scholar.google.com/citations?user=etOQcg8AAAAJ&hl=en), [Twitter](https://twitter.com/hoseinzadeehsan)
 
