@@ -21,7 +21,7 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 ## Publications
 
 *Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction*  
-Ali Mehrabian, **Ehsan Hoseinzade**, Mahdi Mazloum, Xiaohong Chen, ICASSP (submitted), 2025, [arXiv](https://arxiv.org/pdf/2410.03707)
+Ali Mehrabian, **Ehsan Hoseinzade**, Mahdi Mazloum, Xiaohong Chen, ICASSP, 2025, [arXiv](https://arxiv.org/pdf/2410.03707)
 
 *Graph Neural Network Approach to Semantic Type Detection in Tables*  
 **Ehsan Hoseinzade**, Ke Wang, 2024, [PAKDD]([https://arxiv.org/abs/1911.12540](https://arxiv.org/pdf/2405.00123))
