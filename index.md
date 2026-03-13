@@ -20,8 +20,17 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 
 ## Publications
 
+*TabEmb: Joint Semantic-Structure Embedding for Table Annotation*  
+**Ehsan Hoseinzade**, Ke Wang, A Raju, 2026, ACL (submitted)
+
+*ZTab: Domain-based Zero-shot Annotation for Table Columns*  
+**Ehsan Hoseinzade**, Ke Wang, 2026, [ICDE]([https://openreview.net/pdf?id=vgHqweeBMb](https://arxiv.org/pdf/2603.11436))
+
+*Efficient Table Generation for Zero-Shot Column Type Annotation*  
+**Ehsan Hoseinzade**, Ke Wang, 2025, [FMSD @ ICML](https://openreview.net/pdf?id=vgHqweeBMb)
+
 *Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction*  
-Ali Mehrabian, **Ehsan Hoseinzade**, Mahdi Mazloum, Xiaohong Chen, ICASSP, 2025, [arXiv](https://arxiv.org/pdf/2410.03707)
+Ali Mehrabian, **Ehsan Hoseinzade**, Mahdi Mazloum, Xiaohong Chen, 2025, [ICASSP](https://arxiv.org/pdf/2410.03707)
 
 *Graph Neural Network Approach to Semantic Type Detection in Tables*  
 **Ehsan Hoseinzade**, Ke Wang, 2024, [PAKDD]([https://arxiv.org/abs/1911.12540](https://arxiv.org/pdf/2405.00123))
@@ -33,7 +42,7 @@ Zohreh Khosrobeig, Hadi Veisi, **Ehsan Hoseinzade** , Hanieh Shabanian, 2022, [A
 Arash Khoeini, Saman Haratizadeh, **Ehsan Hoseinzade** , 2020, [arXiv](https://arxiv.org/abs/2012.04979)
 
 *CNNpred: CNN-based stock market prediction using a diverse set of variables*  
-**Ehsan Hoseinzade**, Saman Haratizadeh, 2019, [Expert Systems with Applications (journal)](https://www.sciencedirect.com/science/article/pii/S0957417419301915), **Citations: 574**
+**Ehsan Hoseinzade**, Saman Haratizadeh, 2019, [Expert Systems with Applications (journal)](https://www.sciencedirect.com/science/article/pii/S0957417419301915), **Citations: 800+**
 
 *U-cnnpred: A universal cnn-based predictor for stock markets*  
 **Ehsan Hoseinzade**, Saman Haratizadeh, Arash Khoeini, 2019, [arXiv](https://arxiv.org/abs/1911.12540)
