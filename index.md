@@ -24,7 +24,7 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 **Ehsan Hoseinzade**, Ke Wang, A Raju, 2026, ACL (submitted)
 
 *ZTab: Domain-based Zero-shot Annotation for Table Columns*  
-**Ehsan Hoseinzade**, Ke Wang, 2026, [ICDE](https://arxiv.org/pdf/2603.11436))
+**Ehsan Hoseinzade**, Ke Wang, 2026, [ICDE](https://arxiv.org/pdf/2603.11436)
 
 *Efficient Table Generation for Zero-Shot Column Type Annotation*  
 **Ehsan Hoseinzade**, Ke Wang, 2025, [FMSD @ ICML](https://openreview.net/pdf?id=vgHqweeBMb)
