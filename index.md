@@ -24,7 +24,7 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 **Ehsan Hoseinzade**, Ke Wang, A Raju, 2026, ACL (submitted)
 
 *ZTab: Domain-based Zero-shot Annotation for Table Columns*  
-**Ehsan Hoseinzade**, Ke Wang, 2026, [ICDE]([https://openreview.net/pdf?id=vgHqweeBMb](https://arxiv.org/pdf/2603.11436))
+**Ehsan Hoseinzade**, Ke Wang, 2026, [ICDE](https://arxiv.org/pdf/2603.11436))
 
 *Efficient Table Generation for Zero-Shot Column Type Annotation*  
 **Ehsan Hoseinzade**, Ke Wang, 2025, [FMSD @ ICML](https://openreview.net/pdf?id=vgHqweeBMb)
@@ -33,7 +33,7 @@ Before joining SFU I got my Masters degree in Computer Science at University of 
 Ali Mehrabian, **Ehsan Hoseinzade**, Mahdi Mazloum, Xiaohong Chen, 2025, [ICASSP](https://arxiv.org/pdf/2410.03707)
 
 *Graph Neural Network Approach to Semantic Type Detection in Tables*  
-**Ehsan Hoseinzade**, Ke Wang, 2024, [PAKDD]([https://arxiv.org/abs/1911.12540](https://arxiv.org/pdf/2405.00123))
+**Ehsan Hoseinzade**, Ke Wang, 2024, [PAKDD](https://arxiv.org/pdf/2405.00123v1)
 
 *Persian Optical Character Recognition Using Deep Bidirectional Long Short-Term Memory*  
 Zohreh Khosrobeig, Hadi Veisi, **Ehsan Hoseinzade** , Hanieh Shabanian, 2022, [Applied Sciences (journal)](https://www.mdpi.com/2076-3417/12/22/11760/pdf)
